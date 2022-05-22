@@ -1,0 +1,7 @@
+Testes de unidade testam pequenos módulos do sistema (métodos ou classes). Eles
+são menores e mais rápidos, e devem ser executados em grandes quantidades.
+
+Já os testes funcionais testam o sistema a partir do ponto de vista do usuário,
+simulando seu comportamento. Por esse motivo, eles são mais lentos e custosos,
+e são mais frágeis por dependerem de comunicação com sistemas externos (e.g.,
+navegador, filesystem).
